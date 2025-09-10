@@ -13,3 +13,8 @@ A repository dump for my solutions in coding challenges.
 
 ## Dynamic Programming
 - [x] Maximum Subarray
+
+---
+
+## Bit Manipulation
+- [x] Lonely Integer
