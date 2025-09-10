@@ -8,6 +8,7 @@ A repository dump for my solutions in coding challenges.
 
 ## String
 - [x] Anagram
+- [x] Palindrome
 
 ---
 
@@ -23,3 +24,8 @@ A repository dump for my solutions in coding challenges.
 
 ## Sorting
 - [x] Bubble Sort
+
+---
+
+## Number Theory
+- [x] Find Prime Factors
