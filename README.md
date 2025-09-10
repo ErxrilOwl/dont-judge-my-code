@@ -2,7 +2,14 @@
 
 A repository dump for my solutions in coding challenges.
 
-## Topics
+---
 
-### string
-- [x] anagram
+# Topics
+
+## String
+- [x] Anagram
+
+---
+
+## Dynamic Programming
+- [x] Maximum Subarray
