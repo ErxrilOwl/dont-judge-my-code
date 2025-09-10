@@ -18,3 +18,8 @@ A repository dump for my solutions in coding challenges.
 
 ## Bit Manipulation
 - [x] Lonely Integer
+
+---
+
+## Sorting
+- [x] Bubble Sort
