@@ -29,3 +29,8 @@ A repository dump for my solutions in coding challenges.
 
 ## Number Theory
 - [x] Find Prime Factors
+
+---
+
+## Graph Theory
+- [x] Even Tree
