@@ -9,6 +9,7 @@ A repository dump for my solutions in coding challenges.
 ## String
 - [x] Anagram
 - [x] Palindrome
+- [x] Gemstone
 
 ---
 
