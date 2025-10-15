@@ -10,6 +10,7 @@ A repository dump for my solutions in coding challenges.
 - [x] Anagram
 - [x] Palindrome
 - [x] Gemstone
+- [x] Sort
 
 ---
 
