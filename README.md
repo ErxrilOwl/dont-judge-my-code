@@ -36,3 +36,7 @@ A repository dump for my solutions in coding challenges.
 
 ## Graph Theory
 - [x] Even Tree
+
+## Others
+- [x] Count Words
+- [x] Sudoku
