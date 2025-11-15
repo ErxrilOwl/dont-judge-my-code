@@ -40,3 +40,4 @@ A repository dump for my solutions in coding challenges.
 ## Others
 - [x] Count Words
 - [x] Sudoku
+- [x] Draw Square
