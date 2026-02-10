@@ -37,6 +37,9 @@ A repository dump for my solutions in coding challenges.
 ## Graph Theory
 - [x] Even Tree
 
+## Implementation
+- [x] Migratory Birds
+
 ## Others
 - [x] Count Words
 - [x] Sudoku

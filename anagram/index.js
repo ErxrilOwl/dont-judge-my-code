@@ -1,7 +1,7 @@
 let word1 = "cinema";
 let word2 = "iceman";
 
-if (anagram.split("").sort().join("") == word.split("").sort().join("")) {
+if (word1.split("").sort().join("") == word2.split("").sort().join("")) {
     console.log("ANAGRAM!")
 } else {
     console.log("NOT ANAGRAM!")
