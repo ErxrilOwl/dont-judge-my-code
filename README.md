@@ -12,6 +12,9 @@ A repository dump for my solutions in coding challenges.
 - [x] Gemstone
 - [x] Sort
 
+## Array and Hash
+- [x] Two Sum
+
 ---
 
 ## Dynamic Programming
